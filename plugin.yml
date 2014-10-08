@@ -1,0 +1,27 @@
+name: MonstersPlus
+main: me.coolade.monstersplus.MonstersPlus
+version: 1.3
+softdepend: [WorldGuard,WorldEdit,Jobs,Factions,Vault]
+description: >
+             MonstersPlus
+commands:
+  jobenchant:
+    description: Utilize available enchantments based on your job.
+  oreradar:
+    description: Use the mining radar.
+  track:
+    description: Track an entity based on your job.
+  faq:
+    description: Display frequently asked questions.
+  customenchant:
+    description: Enchant items with custom enchantments.
+  powerstone:
+    description: Consume powerstones.
+  powerstones:
+    description: Consume powerstones.
+  customspawn:
+    description: Spawn Custom Monsters.
+  disguise:
+    description: Handle player disguises.
+  builder:
+    description: Access the job builder tools.

@@ -2,5 +2,14 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/Factions 2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/MassiveCore 2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/spigot-1.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/CoreProtect_2.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/worldedit-bukkit-6.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/worldguard-6.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/LibsDisguises-9.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/NathanLaptop/workspace/MonstersPlus/lib/Jobs3.6.3Experimental.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
